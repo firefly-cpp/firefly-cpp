@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: ["main"]}
+  push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -31,5 +31,5 @@ jobs:
           plugin_languages_skipped: GOD-GOG
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_featured: firefly-cpp/NiaARM firefly-cpp/cover-letter-latex
+          #plugin_repositories_featured: firefly-cpp/NiaARM firefly-cpp/cover-letter-latex
           plugin_traffic: yes
