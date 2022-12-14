@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/firefly-cpp/">
+    <img src="https://raw.githubusercontent.com/firefly-cpp/firefly-cpp/main/github-metrics.svg" />
+  </a>
+</p>
