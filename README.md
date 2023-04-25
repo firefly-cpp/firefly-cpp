@@ -12,6 +12,9 @@ An assistant professor at the University of Maribor (Maribor, SI).
 <a href="https://getfedora.org">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24" />
 </a>
+<a href="https://www.alpinelinux.org/">
+<img src="https://avatars.githubusercontent.com/u/7600810?s=64&v=4" width="24" />
+</a>
 <a href="https://nixos.org">
 <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
 </a>
@@ -29,11 +32,9 @@ An assistant professor at the University of Maribor (Maribor, SI).
 <a href="https://www.python.org">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" />
 </a>
-<p align="center">
-  <a href="https://github.com/firefly-cpp/">
-    <img src="https://raw.githubusercontent.com/firefly-cpp/firefly-cpp/main/github-metrics.svg" />
-  </a>
-</p>
+<a href="https://julialang.org/">
+<img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/b5551ca7946b4a25746c045c15fbb8806610f8d0/images/julia-logo-color.svg" width="24" />
+</a>
 
 <p align="center">
   <a href="https://github.com/firefly-cpp/">
