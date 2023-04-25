@@ -1,19 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Iztok</h1>
 
-<!--
-**firefly-cpp/firefly-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An assistant professor at the University of Maribor (Maribor, SI).
 
-Here are some ideas to get you started:
+- All of my projects are available at [LINK](https://github.com/firefly-cpp/firefly-cpp/blob/main/PROJECTS.md)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ask me about **computational intelligence in sports, data mining and optimization.**
+
+- :mailbox: How to reach me **iztok@iztok-jr-fister.eu**
+
+**Distributions：**
+<a href="https://getfedora.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24" />
+</a>
+<a href="https://nixos.org">
+<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
+</a>
+
+**Platforms：**
+<a href="https://www.kernel.org">
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg" width="24" />
+</a>
+<a href="https://www.raspberrypi.org">
+<img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
+</a>
+
+**Languages：**
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24" />
+<a href="https://www.python.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" />
+</a>
+<p align="center">
+  <a href="https://github.com/firefly-cpp/">
+    <img src="https://raw.githubusercontent.com/firefly-cpp/firefly-cpp/main/github-metrics.svg" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/firefly-cpp/">
     <img src="https://raw.githubusercontent.com/firefly-cpp/firefly-cpp/main/github-metrics.svg" />
