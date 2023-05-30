@@ -21,6 +21,7 @@ List of open source software projects where I am heavily involved in maintaining
 
 - [exam-lite - A simple template for preparing exams in LaTex](https://github.com/firefly-cpp/exam-lite-latex)
 - [jourcl - A cover letter template for a journal paper submission in Latex](https://github.com/firefly-cpp/cover-letter-latex)
+- [jourrr - Response to reviewers LaTeX template](https://github.com/firefly-cpp/latex-response-reviewers)
 
 ## Python projects
 
@@ -31,8 +32,9 @@ List of open source software projects where I am heavily involved in maintaining
 - [NiaARM - A minimalistic framework for Numerical Association Rule Mining](https://github.com/firefly-cpp/NiaARM)
 - [NiaAML - Automated machine learning framework](https://github.com/lukapecnik/NiaAML)
 - [pyqt-feedback-flow - Show feedback in toast-like notifications](https://github.com/firefly-cpp/pyqt-feedback-flow)
-- [sportydatagen](https://gitlab.com/firefly-cpp/sportydatagen)
+- [sportydatagen - Generator of Endurance Sports Activity Collections (datasets)](https://gitlab.com/firefly-cpp/sportydatagen)
 - [sport-activities-features - A minimalistic toolbox for extracting features from sports activity files written in Python](https://github.com/firefly-cpp/sport-activities-features)
+- [succulent - Collect POST requests](https://github.com/firefly-cpp/succulent)
 - [tcxreader - tcxreader is a reader / parser for Garmin’s TCX file format](https://github.com/alenrajsp/tcxreader)
 - [thumbnails-readme - Create thumbnails](https://github.com/firefly-cpp/thumbnails-readme)
 - [tinyNARM](https://gitlab.com/firefly-cpp/tinynarm)
