@@ -12,6 +12,10 @@ List of open source software projects where I am heavily involved in maintaining
 - [uARMSolver - universal Association Rule Mining Solver](https://github.com/firefly-cpp/uARMSolver)
 - [Firefly algorithm implementation in C++](https://github.com/firefly-cpp/Firefly-algorithm--FFA-)
 
+## Elixir projects
+
+- [ExperimentRunner](https://gitlab.com/firefly-cpp/experiment-runner)
+  
 ## Julia projects
 
 - [NarmViz.jl - Visualize time series numerical association rules](https://github.com/firefly-cpp/NarmViz.jl)
