@@ -65,6 +65,7 @@ List of open source software projects where I am heavily involved in maintaining
 
 ### Datasets
 
+- [A collection of sport activity datasets for data analysis and data mining](https://github.com/firefly-cpp/sports-activity-dataset-collections)
 - [Arion rufus snails dataset](https://github.com/firefly-cpp/snail-dataset)
 - [smart-agriculture-datasets](https://github.com/firefly-cpp/smart-agriculture-datasets)
 - [osm-graph - Neo4j graph dataset of cycling paths in Slovenia](https://github.com/firefly-cpp/osm-graph)
