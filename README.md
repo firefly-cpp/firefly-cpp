@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Iztok</h1>
 
-An assistant professor at the University of Maribor (Maribor, SI).
+- :man_teacher: An assistant professor at the University of Maribor (Maribor, SI).
 
-- All of my projects are available at [LINK](https://github.com/firefly-cpp/firefly-cpp/blob/main/PROJECTS.md)
+- :bicyclist: I am interested in computational intelligence in sports research.
+  
+- :swimmer::bicyclist::runner: "Ex" athlete of [running/triathlon races](https://github.com/firefly-cpp/race-results) (I will be back one day).
+  
+- :construction_worker: All of my projects are available at [LINK](https://github.com/firefly-cpp/firefly-cpp/blob/main/PROJECTS.md).
 
-- Ask me about **computational intelligence in sports, data mining and optimization.**
+- :question: Ask me about **computational intelligence in sports, data mining and optimization.**
 
 - :mailbox: How to reach me **iztok@iztok-jr-fister.eu**
 
