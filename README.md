@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Iztok</h1>
 
-- :man_teacher: An assistant professor at the University of Maribor (Maribor, SI).
+- :man_teacher: Associate professor at the University of Maribor (Maribor, SI).
 
 - :bicyclist: I am interested in computational intelligence in sports research.
   
