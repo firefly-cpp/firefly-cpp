@@ -12,6 +12,9 @@
 
 - :mailbox: How to reach me **iztok@iztok-jr-fister.eu**
 
+**Links：**
+<a href="https://orcid.org/0000-0002-6418-1272" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+
 **Distributions：**
 <a href="https://getfedora.org">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="24" />
