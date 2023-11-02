@@ -85,7 +85,7 @@ List of open source software projects where I am heavily involved in maintaining
 - [Dodatno gradivo za predmet Portali in sistemi znanja](https://github.com/firefly-cpp/portali-in-sistemi-znanja)
 - [Dodatno gradivo za vaje pri predmetu Orodja za razvoj aplikacij](https://github.com/firefly-cpp/orodja-za-razvoj-aplikacij-vaje)
 - [Dodatno gradivo za predmet Sistemska podpora IKT](https://github.com/firefly-cpp/sistemska-podpora-ikt)
-- [Dodatno gradivo za vaje pri predmetu podatkovno skladiščenje](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje)
+- [Dodatno gradivo za vaje pri predmetu Podatkovno skladiščenje](https://github.com/firefly-cpp/podatkovno-skladiscenje-vaje)
 
 ### Tutorials
 
