@@ -2,6 +2,10 @@
 
 List of open source software projects where I am heavily involved in maintaining, code contribution, or mentoring.
 
+## Arduino/ESP32 projects
+
+- [TCXWriter: A Tiny Library for writing/creating TCX files on Arduino](https://github.com/firefly-cpp/tcxwriter)
+- 
 ## Awesome collections
 
 - [Awesome Computational Intelligence in Sports](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports)
@@ -29,6 +33,7 @@ List of open source software projects where I am heavily involved in maintaining
 
 ## Python projects
 
+- [arm-preprocessing](https://github.com/firefly-cpp/arm-preprocessing)
 - [AST-Monitor - A wearable Raspberry Pi computer for cyclists](https://github.com/firefly-cpp/AST-Monitor)
 - [FireflyAlgorithm - Implementation of Firefly Algorithm in Python](https://github.com/firefly-cpp/FireflyAlgorithm)
 - [NiaPy - Python microframework for building nature-inspired algorithms](https://github.com/NiaOrg/NiaPy)
