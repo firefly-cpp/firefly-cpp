@@ -4,8 +4,8 @@ List of open source software projects where I am heavily involved in maintaining
 
 ## Arduino/ESP32 projects
 
-- [TCXWriter: A Tiny Library for writing/creating TCX files on Arduino](https://github.com/firefly-cpp/tcxwriter)
-- 
+- [TCXWriter: A Tiny Library for writing/creating TCX files on Arduino](https://github.com/firefly-cpp/TCXWriter)
+  
 ## Awesome collections
 
 - [Awesome Computational Intelligence in Sports](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports)
