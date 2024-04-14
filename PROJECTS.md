@@ -24,6 +24,7 @@ List of open source software projects where I am heavily involved in maintaining
 
 - [NarmViz.jl - Visualize time series numerical association rules](https://github.com/firefly-cpp/NarmViz.jl)
 - [NiaARM.jl - Numerical Association Rule Mining in Julia](https://github.com/firefly-cpp/NiaARM.jl)
+- [TCXReader.jl - A parser for TCX files](https://github.com/firefly-cpp/TCXReader.jl)
 
 ## LaTeX
 
