@@ -22,9 +22,6 @@
 <a href="https://www.alpinelinux.org/">
 <img src="https://avatars.githubusercontent.com/u/7600810?s=64&v=4" width="24" />
 </a>
-<a href="https://nixos.org">
-<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" width="24" />
-</a>
 
 **Platforms：**
 <a href="https://www.kernel.org">
